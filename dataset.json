@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Killeen, Texas with a population of over 153k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Killeen, Texas, US",
+  "export_job_id": "09e2adc2-d7d7-41de-937d-57153b6faf26",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 974826,
+  "location_name": "Killeen",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-killeen-texas-us-sample-974826",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/974826/beamstation_974826_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.89,
+  "sample_records": 46,
+  "sample_sha256": "d56b686be2f413a9910ad8005fc9941bfbd47415b2d73be598dc4f899b6cf80b",
+  "sample_size_bytes": 176704,
+  "total_records": 465,
+  "updated_at": "2026-04-09T10:00:01.014039+00:00"
+}
