@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Killeen, Texas with a population of over 153k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Killeen, Texas, US",
-  "export_job_id": "09e2adc2-d7d7-41de-937d-57153b6faf26",
+  "export_job_id": "961ff8dd-2479-4d4b-8bce-2b66774c2086",
   "github_org": "Beamstation-Datasets",
   "id_short": 974826,
   "location_name": "Killeen",
@@ -18,5 +18,5 @@
   "sample_sha256": "d56b686be2f413a9910ad8005fc9941bfbd47415b2d73be598dc4f899b6cf80b",
   "sample_size_bytes": 176704,
   "total_records": 465,
-  "updated_at": "2026-04-09T10:00:01.014039+00:00"
+  "updated_at": "2026-04-16T09:54:19.513543+00:00"
 }
