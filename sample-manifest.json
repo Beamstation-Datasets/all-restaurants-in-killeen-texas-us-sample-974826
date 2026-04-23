@@ -1,12 +1,12 @@
 {
-  "export_job_id": "961ff8dd-2479-4d4b-8bce-2b66774c2086",
+  "export_job_id": "b474d5c7-21bc-4ad8-b080-ef5d0683465e",
   "id_short": 974826,
-  "published_at": "2026-04-19T19:24:00Z",
+  "published_at": "2026-04-23T19:15:46Z",
   "repo_name": "all-restaurants-in-killeen-texas-us-sample-974826",
   "sample_asset_name": "beamstation_974826_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/974826/beamstation_974826_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 46,
-  "sample_sha256": "d56b686be2f413a9910ad8005fc9941bfbd47415b2d73be598dc4f899b6cf80b",
-  "sample_size_bytes": 176704,
-  "total_records": 465
+  "sample_records": 29,
+  "sample_sha256": "fa6ddabdf0debf08e45570e53e2e161c8493ae421b508df15099479d6f2b6766",
+  "sample_size_bytes": 115187,
+  "total_records": 298
 }
