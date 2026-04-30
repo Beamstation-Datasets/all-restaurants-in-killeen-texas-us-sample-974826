@@ -1,6 +1,6 @@
 # All Restaurants in Killeen, Texas, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 47 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `974826` |
 | Location | Killeen |
 | Category | Restaurants |
-| Full dataset size | 298 records |
-| Free sample size | 29 records (9.73%) |
-| Last export | 2026-04-23T09:49:27.593782+00:00 |
+| Full dataset size | 474 records |
+| Free sample size | 47 records (9.92%) |
+| Last export | 2026-04-30T09:57:27.225931+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-killeen-texas-us-sample-974826/releases/download/sample-latest/beamstation_974826_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
